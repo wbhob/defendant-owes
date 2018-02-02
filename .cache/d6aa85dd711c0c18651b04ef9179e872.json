@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./main.scss","loc":{"line":3,"column":8}},{"name":"./scripts/insert-values","loc":{"line":4,"column":8}}],"generated":{"js":"\"use strict\";\nexports.__esModule = true;\nrequire(\"./main.scss\");\nrequire(\"./scripts/insert-values\");\n"},"hash":"d01bebadc114cc47339f1afbc7de820e"}

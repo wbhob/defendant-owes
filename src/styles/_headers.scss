@@ -1,0 +1,11 @@
+h1#total {
+    font-size: 11vh;
+    font-weight: 200;
+    @include media-breakpoint-up(sm) {
+        font-size: 15vh;
+    }
+}
+
+h4 {
+    font-weight: 300;
+}
